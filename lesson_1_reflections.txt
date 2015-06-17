@@ -1,0 +1,20 @@
+How did viewing a diff between two versions of a file help you see the bug that was introduced?
+
+git diff f19cb1b80fe27e938e4d72770ca0a42f25e99ecc 75928a98e18479b22b18888a33d36379f17b43c1
+
+compare with u:
+diff -u name name
+
+move file: mv
+
+Copy file: cp
+
+Create directory: mkdir
+
+git diff ID ID
+git clone URL
+git checkout ID
+git log
+git scp (secure copy from one computer to another)
+
+to see all hidden files in directory:  ls -a 
