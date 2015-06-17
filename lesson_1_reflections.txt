@@ -17,6 +17,7 @@ git clone (URLgit checkout ID)
 git log
 git scp (secure copy from one computer to another)
 git add
+git commit
 git status
 
 to see all hidden files in directory:  ls -a 
