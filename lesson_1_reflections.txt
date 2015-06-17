@@ -11,10 +11,12 @@ Copy file: cp
 
 Create directory: mkdir
 
-git diff ID ID
-git clone URL
-git checkout ID
+git init  (initializes the repository)
+git diff (ID ID)
+git clone (URLgit checkout ID)
 git log
 git scp (secure copy from one computer to another)
+git add
+git status
 
 to see all hidden files in directory:  ls -a 
