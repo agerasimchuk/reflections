@@ -13,11 +13,14 @@ Create directory: mkdir
 
 git init  (initializes the repository)
 git diff (ID ID)
+git diff (with no arguments, compares working directory and the staging area)
 git clone (URLgit checkout ID)
 git log
 git scp (secure copy from one computer to another)
 git add
 git commit
 git status
+git diff —staged (compares staging area to commit 1)
+git reset —reset
 
 to see all hidden files in directory:  ls -a 
